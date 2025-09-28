@@ -5908,7 +5908,7 @@ u.MW(a,!1)
 return u},
 Sy:function Sy(){this.a=null},
 Sz:function Sz(a){this.a=a},
-adZ:function(){return $.mK().a.kA(0,"users/bingoogolapple",null).bf(new Y.IC(),U.xT)},
+adZ:function(){return $.mK().a.kA(0,"users/zytx121",null).bf(new Y.IC(),U.xT)},
 adX:function(){return $.mK().a.kA(0,"repos/"+$.C9()+"/labels",null).bf(new Y.IA(),[P.r,U.jo])},
 adW:function(a,b,c,d){var u=a!=null&&C.d.hy(a).length>0?'+label:"'+H.f(a)+'"':""
 return $.mK().a.kA(0,"search/issues?q="+H.f(b)+"+state:open+repo:"+$.C9()+u+"&sort=created&order=desc&page="+H.f(c)+"&per_page="+d,null).bf(new Y.Iy(),null)},
@@ -27150,7 +27150,7 @@ if(u!=null)u.scr(0,!U.c2(this.c))
 this.c7()}}
 N.UD.prototype={
 H:function(a){var u=null
-return M.a4A(E.a3r(u,0,L.cr("bingoogolapple",u,u,u,u,u)),T.jK(H.d([new T.eZ(1,C.bO,new D.oj(u),u),new Z.Uv(1,u),new T.eZ(3,C.bO,this.NF(),u)],[N.P]),C.aY,C.aV,C.cL),u)},
+return M.a4A(E.a3r(u,0,L.cr("zytx121",u,u,u,u,u)),T.jK(H.d([new T.eZ(1,C.bO,new D.oj(u),u),new Z.Uv(1,u),new T.eZ(3,C.bO,this.NF(),u)],[N.P]),C.aY,C.aV,C.cL),u)},
 NF:function(){return new U.cz(null,new N.UE(),null,[K.fG])}}
 N.UE.prototype={
 $3:function(a,b,c){var u,t=null
@@ -27468,7 +27468,7 @@ $R:3}
 D.YV.prototype={
 $1:function(a){return this.a.XA(a,$.a3F.i(0,a))}}
 D.YW.prototype={
-$0:function(){B.rG(this.a,"https://github.com/bingoogolapple/bga_issue_blog")},
+$0:function(){B.rG(this.a,"https://github.com/zytx121/bga_issue_blog")},
 $S:0}
 D.YS.prototype={
 $0:function(){return B.rG(this.a.c,this.b)},
@@ -61808,7 +61808,7 @@ $.wa=null
 $.aaL=null
 $.a8m=null
 $.a3F=function(){var u=P.e
-return P.bm(["images/github.png","https://github.com/bingoogolapple","images/git.png","https://bingoogolapple.gitbooks.io/bgalearningnotes-git"],u,u)}()
+return P.bm(["images/github.png","https://github.com/zytx121","images/git.png","https://zytx121.gitbooks.io/bgalearningnotes-git"],u,u)}()
 $.a4y=null
 $.a5q=[]
 $.C5=null
@@ -61943,8 +61943,8 @@ r.d=3000
 r.sFI(0,"application/json; charset=utf-8")
 s.ci$.e=C.dP
 return new R.Mq(s)})
-u($,"aj_","C9",function(){return"bingoogolapple/bingoogolapple.github.io"})
-u($,"aj0","aaW",function(){return"\xa92014 - "+H.a83(P.adp())+" bingoogolapple\n\u8700ICP\u590717023604\u53f7"})
+u($,"aj_","C9",function(){return"zytx121/zytx121.github.io"})
+u($,"aj0","aaW",function(){return"\xa92014 - "+H.a83(P.adp())})
 u($,"ajz","a3c",function(){return new Z.Qn(new Y.Qj(H.d([],[Y.i9])))})
 u($,"akM","ac6",function(){return P.lc(C.yS,P.e)})
 u($,"ajc","ab3",function(){return R.a7J("application/json; charset=utf-8")})
