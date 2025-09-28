@@ -61808,7 +61808,7 @@ $.wa=null
 $.aaL=null
 $.a8m=null
 $.a3F=function(){var u=P.e
-return P.bm(["images/github.png","https://github.com/zytx121","images/git.png","https://zytx121.gitbooks.io/bgalearningnotes-git"],u,u)}()
+return P.bm(["images/github.png","https://github.com/zytx121"],u,u)}()
 $.a4y=null
 $.a5q=[]
 $.C5=null
