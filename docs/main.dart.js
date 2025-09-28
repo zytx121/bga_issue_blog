@@ -27433,7 +27433,7 @@ u=this.Fo("\u4e2a\u4eba\u535a\u5ba2",!1)
 t=this.Fo("\u5173\u4e8e\u6211",!0)
 s=A.aK(m,m,new S.cj((S.cH("#4b595f")&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)
 r=[G.hI]
-s=L.a8s(Q.c7(H.d([Q.c7(m,m,A.aK(m,m,new S.cj((S.cH(l)&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m),"\u5f00\u6e90\u5e93 QQ \u7fa4")],r),m,s,"BGA \u7cfb\u5217\n"),C.bF)
+s=L.a8s(Q.c7(H.d([Q.c7(m,m,A.aK(m,m,new S.cj((S.cH(l)&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m),"\u5f00\u6e90\u5e93 QQ \u7fa4")],r),m,s,"RS-VL-Data \u7cfb\u5217\n"),C.bF)
 q=U.uU("images/qq-group.png",C.jH,80,80)
 p=L.cr($.aaW(),m,m,m,A.aK(m,m,new S.cj((S.cH(l)&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m),C.bF)
 o=A.aK(m,m,new S.cj((S.cH(l)&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)
@@ -27468,7 +27468,7 @@ $R:3}
 D.YV.prototype={
 $1:function(a){return this.a.XA(a,$.a3F.i(0,a))}}
 D.YW.prototype={
-$0:function(){B.rG(this.a,"https://github.com/bingoogolapple/bga_issue_blog")},
+$0:function(){B.rG(this.a,"https://github.com/zytx121/je")},
 $S:0}
 D.YS.prototype={
 $0:function(){return B.rG(this.a.c,this.b)},
@@ -55202,7 +55202,7 @@ F.tl.prototype={
 al:function(){return new F.VV(C.m)}}
 F.VV.prototype={
 H:function(a){var u=null,t=H.d([T.iR(new F.VW(),K.jA),T.iR(new F.VX(),K.jn),T.iR(new F.VY(),K.mi),T.iR(new F.VZ(),K.fG),T.iR(new F.W_(),K.eS),T.iR(new F.W0(),K.l9),T.iR(new F.W1(),K.l7),T.iR(new F.W2(),K.ku)],[Y.RK]),s=X.a4M(u,u,u,C.lh,u)
-return new Y.vH(t,new S.vv(T.e5(C.bI,H.d([new E.rU(u),new V.vW(new F.W3(),u)],[N.P]),C.bE,u,u),"/","bga_issue_blog",s,!1,u),u)},
+return new Y.vH(t,new S.vv(T.e5(C.bI,H.d([new E.rU(u),new V.vW(new F.W3(),u)],[N.P]),C.bE,u,u),"/","je",s,!1,u),u)},
 $aU:function(){return[F.tl]}}
 F.VW.prototype={
 $1:function(a){var u={func:1,ret:-1}
