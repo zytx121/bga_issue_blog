@@ -27429,8 +27429,8 @@ Y.adZ().bf(new D.YQ(u),P.D).eX(new D.YR(this))},
 H:function(a){var u,t,s,r,q,p,o,n,m=null,l="#849aa4",k=$.a3F.gas($.a3F),j=N.P
 k=H.f3(k,new D.YV(this),H.a1(k,"t",0),j)
 k=T.jK(P.ap(k,!0,H.a1(k,"t",0)),C.aY,C.lg,C.cL)
-u=this.Fo("\u4e2a\u4eba\u535a\u5ba2",!1)
-t=this.Fo("\u5173\u4e8e\u6211",!0)
+u=this.Fo(" Datasets",!1)
+t=this.Fo("Project Introduction",!0)
 s=A.aK(m,m,new S.cj((S.cH("#4b595f")&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)
 r=[G.hI]
 s=L.a8s(Q.c7(H.d([Q.c7(m,m,A.aK(m,m,new S.cj((S.cH(l)&4294967295)>>>0),m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m),"微信公众号")],r),m,s,"大模型饲养猿\n"),C.bF)
