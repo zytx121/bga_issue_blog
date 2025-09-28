@@ -27468,7 +27468,7 @@ $R:3}
 D.YV.prototype={
 $1:function(a){return this.a.XA(a,$.a3F.i(0,a))}}
 D.YW.prototype={
-$0:function(){B.rG(this.a,"https://github.com/zytx121/bga_issue_blog")},
+$0:function(){B.rG(this.a,"https://github.com/zytx121/je")},
 $S:0}
 D.YS.prototype={
 $0:function(){return B.rG(this.a.c,this.b)},
